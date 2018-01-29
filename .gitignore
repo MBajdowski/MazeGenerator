@@ -1,6 +1,13 @@
 # IntelliJ
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Compiled
 out/
-*.iml
-.idea
+
+# Static
 *.gif
 *.bmp
+
+
+
