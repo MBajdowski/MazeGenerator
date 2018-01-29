@@ -17,7 +17,7 @@ public class MazeProperties {
     public MazeProperties() {
         height = 10;
         width = 10;
-        strokeSize = 5;
+        strokeSize = 10;
         inLoop = false;
         path = "";
         name = "maze";
